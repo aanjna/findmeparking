@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">findmeparking</string>
+    <string name="title_activity_user_dash">UserDash</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_feedback">Feedback</string>
+
+    <string name="title_activity_beer_page">Find Me Parking Space</string>
+    <string name="title_activity_add_beer">addParkspace</string>
+
+    <string name="title_activity_beer_search">Search</string>
+</resources>
